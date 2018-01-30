@@ -1,1 +1,1 @@
-worker : Die
+worker: python Die.py
